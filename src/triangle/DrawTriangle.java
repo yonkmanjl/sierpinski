@@ -27,7 +27,7 @@ public class DrawTriangle extends Application {
     private static final int MAX_ITERATIONS = 6;
     
     /**
-     * Size of circle.
+     * Sides of a triangle.
      */
     private static final int THREE = 3;
     
