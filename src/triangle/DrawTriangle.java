@@ -82,7 +82,7 @@ public class DrawTriangle extends Application {
     
 
     /**
-     * Adds a new line to the scene when the mouse button is pressed.
+     * Sets centre point to mouse click.
      * 
      * @param event
      *            invoked this method
